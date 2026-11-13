@@ -1,2 +1,2 @@
 console.log('Hello World!')
-console.log('Perubahan barusan')
+console.log('Hello Tes')
